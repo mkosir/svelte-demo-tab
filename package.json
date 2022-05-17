@@ -1,7 +1,7 @@
 {
   "name": "svelte-demo-tab",
   "version": "0.0.0-development",
-  "description": "Svelte component to easily create demos of other components",
+  "description": "1Svelte component to easily create demos of other components",
   "svelte": "./src/index.js",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
